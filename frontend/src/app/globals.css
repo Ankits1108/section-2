@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.submit-btn{
+
+    background-color: red;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    
+    
+    
+    }
